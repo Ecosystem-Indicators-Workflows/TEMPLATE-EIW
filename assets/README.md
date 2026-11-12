@@ -1,4 +1,4 @@
-# Assets
+#Assets
 
 This folder stores images, figures, and other static files used in the README and workflow documentation.
 
