@@ -1,0 +1,73 @@
+---
+title: "Project Title"
+format: gfm
+---
+
+# Project Title
+
+## Overview
+
+Briefly describe the purpose of the project, the problem it addresses, and the expected outputs.
+
+## Reproducible Section Heads
+
+Use a consistent structure so that readers and automation tools can find project information quickly.
+
+## Requirements
+
+- Software dependencies
+- Language/runtime version
+- System requirements
+- External data sources or credentials
+
+## Setup
+
+1. Clone the repository.
+2. Create a virtual environment or package manager environment.
+3. Install dependencies.
+4. Verify the environment works.
+
+## Data
+
+Describe where the data comes from, how it is stored, and whether it is versioned or generated.
+
+## Workflow
+
+Document the steps needed to reproduce the analysis or pipeline, including:
+
+- data acquisition
+- preprocessing
+- modeling or analysis
+- reporting or output generation
+
+## Run
+
+```bash
+# Example commands
+make
+# or
+python -m project
+```
+
+## Outputs
+
+List generated artifacts such as tables, plots, reports, or model files.
+
+## Results
+
+Summarize the main findings, key figures, and links to generated output files.
+
+## Reproducibility Notes
+
+- Pin dependency versions.
+- Record the random seed.
+- Store configuration files in the repository.
+- Note the exact command(s) used to regenerate outputs.
+
+## Contributing
+
+Describe how collaborators can contribute, propose changes, or report issues.
+
+## License
+
+State the project license and any usage restrictions.
