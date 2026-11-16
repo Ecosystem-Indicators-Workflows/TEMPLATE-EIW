@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: >-
-  Cross-referencing the `<name-of-the-vegetation-survey>` of `<place>` to the IUCN Global Ecosystem Typology
+  Ecosystem Indicator Workflow: `{ecosystem-name}`, `{indicator-name}`, `{assessment-name}`
 message: >-
   If you use these scripts and dataset, please cite it using
   the metadata from this file.
@@ -26,8 +26,8 @@ authors:
     affiliation: PLACEHOLDER
     orcid: 'https://orcid.org/0000-XXXX-XXX-XXXX'
 repository-code: >-
-  https://github.com/Ecosystem-Indicators-Workflows/TEMPLATE-XREFF
+  https://github.com/Ecosystem-Indicators-Workflows/TEMPLATE-EIW
 license: CC-BY-4.0
 commit: <commit-SHA>
 version: 0.0.1
-date-released: '2026-11-10'
+date-released: '2026-11-16'
