@@ -1,5 +1,5 @@
 ---
-title: "Project Title"
+title: "Ecosystem Indicator Workflow: `{ecosystem-name}`, `{indicator-name}`, `{assessment-name}`
 format: gfm
 ---
 
@@ -15,10 +15,10 @@ Use a consistent structure so that readers and automation tools can find project
 
 ## Requirements
 
-- Software dependencies
-- Language/runtime version
-- System requirements
-- External data sources or credentials
+- [ ] Software dependencies
+- [ ] Language/runtime version
+- [ ] System/computational environment requirements
+- [ ] External data sources or credentials
 
 ## Setup
 
@@ -51,23 +51,26 @@ python -m project
 
 ## Outputs
 
-List generated artifacts such as tables, plots, reports, or model files.
+- [ ] List generated artifacts such as tables, plots, reports, or model files, as well as their filepaths in this repository.
 
 ## Results
 
-Summarize the main findings, key figures, and links to generated output files.
+- [ ] Summarize the main findings, key figures, and links to generated output files.
 
 ## Reproducibility Notes
 
-- Pin dependency versions.
-- Record the random seed.
-- Store configuration files in the repository.
-- Note the exact command(s) used to regenerate outputs.
+- [ ] Record relevant details required to reproduce the workflow in this repository, including, but not limited to:
+    - [ ] Pin dependency versions.
+    - [ ] Record the random seed.
+    - [ ] Store configuration files in the repository.
+    - [ ] Note the exact command(s) used to regenerate outputs.
 
 ## Contributing
 
-Describe how collaborators can contribute, propose changes, or report issues.
+- [ ] Describe how collaborators can contribute, propose changes, or report issues.
 
 ## License
 
-State the project license and any usage restrictions.
+- [ ] ensure that fair-checklist.yml has been updated with project metadata
+
+<!-- The results of the FAIR checklist will be automatically added here -->
