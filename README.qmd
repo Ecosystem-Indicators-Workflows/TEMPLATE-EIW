@@ -73,8 +73,8 @@ python -m project
 
 - [ ] State the project license and any usage restrictions. Must match the `LICENSE` file.
 - [ ] Update `LICENSE` with all licenses associated with the repository.
-- [ ] 
+
+<!-- The results of the FAIR checklist will be automatically added here -->
 
 - [ ] ensure that fair-checklist.yml has been updated with project metadata
 
-<!-- The results of the FAIR checklist will be automatically added here -->
