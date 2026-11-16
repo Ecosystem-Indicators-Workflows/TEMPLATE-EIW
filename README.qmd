@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem Indicator Workflow: `{ecosystem-name}`, `{indicator-name}`, `{assessment-name}`
+title: "Ecosystem Indicator Workflow: `{ecosystem-name}`, `{indicator-name}`, `{assessment-name}`"
 format: gfm
 ---
 
