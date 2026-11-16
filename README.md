@@ -85,3 +85,36 @@ python -m project
 
 - [ ] ensure that fair-checklist.yml has been updated with project
   metadata
+
+<!-- FAIR:START -->
+## FAIR assessment
+
+[![FAIR checklist badge](https://fairsoftwarechecklist.net/badge.svg)](https://fairsoftwarechecklist.net/v0.2?f=21&a=30112&i=01000&r=023) ![EIW FAIR score](https://img.shields.io/badge/EIW%20FAIR-16%2F33-orange)
+
+**16 / 33 points · 6 / 15 questions at EIW target** · not yet at EIW minimum
+
+| Principle | Score | EIW target |
+|---|---|---|
+| Findable | 3 / 4 (75%) | 4 / 4 |
+| Accessible | 7 / 10 (70%) | 10 / 10 |
+| Interoperable | 1 / 12 (8%) | 12 / 12 |
+| Reusable | 5 / 7 (71%) | 6 / 7 |
+
+<details><summary>Gaps to close (9)</summary>
+
+- **f:q0 Indexed by search engines** (2 / 3): No web page with SEO (Quarto site / WorkflowHub)
+- **a:q1 Persistent identifier (DOI)** (0 / 2): No DOI: a GitHub URL can move or vanish
+- **a:q4 Identifier in metadata** (2 / 3): No DOI in CITATION.cff
+- **i:q0 Open, domain-common formats** (0 / 3): No data formats found (declare them under formats:)
+- **i:q1 Versioning scheme** (1 / 2): Versions do not follow vX.Y.Z
+- **i:q2 Dependencies specified** (0 / 3): No dependency file (renv.lock / requirements.txt)
+- **i:q3 Links to related software** (0 / 2): No links to related software (CITATION.cff references)
+- **i:q4 Links to related data** (0 / 2): No links to related data
+- **r:q0 Executable** (0 / 1): Missing: pinned dependencies
+
+</details>
+
+![FAIR scores per question](fair/fair-scores.png)
+
+<sub>Updated 2026-11-16 from commit `9d782f1` by `.fair/fair_check.R`. Edit `.fair/fair-checklist.yml`, not this block.</sub>
+<!-- FAIR:END -->
