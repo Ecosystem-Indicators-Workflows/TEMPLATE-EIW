@@ -1,5 +1,5 @@
-README - ./results
+# README - `./results/`
 
-./results/ is where final outputs and results files belong, including:
+`./results/` is where all output and result files from workflow executions belong.
 
-TBD
+<!-- TBD -->

@@ -1,3 +1,3 @@
-README - ./data/raw/
+# README - `./data/raw/`
 
-./data/raw/ contains data that is never edited, any modified versions of those files, such as from data cleaning and processing (whether from hand-editing or programmatic manipulation), is to be written to ./data/processed/.
+`raw/` contains data that is never edited. Any modified versions of those files, such as from data cleaning and processing (whether from hand-editing or programmatic manipulation), is to be written to `./data/processed/`.

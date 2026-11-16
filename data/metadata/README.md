@@ -1,3 +1,3 @@
-README - ./data/metadata/
+# README - `./data/metadata/`
 
-metadata/ contains metadata like data dictionaries or provenance information
+`metadata/` contains metadata-like data dictionaries or provenance information
